@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jayesh Sharma 👋
 
-<!--
-**Lab-Member-0010/Lab-Member-0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building thoughtful web experiences and intelligent QA tools.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript, React, HTML & CSS
+- Java and backend development
+- Test automation and developer tooling
+- Clean interfaces, practical systems, and continuous learning
+
+## Featured work
+
+- [Manasthali](https://github.com/Lab-Member-0010/Manasthali) — social platform built around personality and community
+- [Manasthali Backend](https://github.com/Lab-Member-0010/Manasthali-Backend) — backend services for Manasthali
+- [React.js](https://github.com/Lab-Member-0010/React.js) — React experiments and showcase projects
+- [JAVA-works](https://github.com/Lab-Member-0010/JAVA-works) — Java learning and practice projects
+
+## A little about me
+
+I enjoy turning ideas into useful products, improving developer workflows, and solving problems with code.
+
+Thanks for visiting my profile! 🚀
